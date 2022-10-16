@@ -1,21 +1,25 @@
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_Hazard-Nuker&metric=ncloc" </a>
-<img src="https://img.shields.io/github/license/Rdimo/Hazard-Nuker?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/Rdimo/Hazard-Nuker/total?color=%23daff00&label=1.4.7 Downloads&style=flat-square" </a>
-<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars&style=flat-square" </a>
-<img src="https://img.shields.io/github/forks/Rdimo/Hazard-Nuker?color=%23daff00&label=Forks&style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/MJMODZZ/Hazard-Nuker-Reupload?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/MJMODZZ/Hazard-Nuker-Reupload?style=flat-square" </a>
+<img src="https://img.shields.io/github/license/MJMODZZ/Hazard-Nuker-Reupload?style=flat-square" </a>
+<img src="https://img.shields.io/github/downloads/MJMODZZ/Hazard-Nuker-Reupload/total?color=%23daff00&label=1.4.7 Downloads&style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/MJMODZZ/Hazard-Nuker-Reupload?color=%23daff00&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/MJMODZZ/Hazard-Nuker-Reupload?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
 <p align="center">
-<a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker#Important">Important</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md">Changelogs</a> |
+<a href="https://github.com/MJMODZZ/Hazard-Nuker-Reupload#installation">Installation</a> |
+<a href="https://github.com/MJMODZZ/Hazard-Nuker-Reupload#-important">Important</a> |
 <a href="https://cheataway.com">Discord</a>
 </p>
 
 ---
+## <a id="mjmodzz"></a>☢ 〢 About the Hazard Nuker ##
+This is just a reupload of Rdimos Hazard Nuker. All credits goes to him, he made the whole reposetory.<br />
+
+Copyright © 2022 [Rdimo](https://cheataway.com).<br />
+This project is [GPL-2.0](https://github.com/MJMODZZ/Hazard-Nuker-Reupload/blob/main/LICENSE) licensed.
+Rdimo Discord [Here](https://discord.gg/vSsqdYyGYC)
+MJMODZZ Discord [Here](https://discord.gg/bjwmd3yuGP)
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
 ㅤ
@@ -25,10 +29,6 @@ Code ✅
 
 <h1 allign="center">- Features -</h1>
 <p align="center">
- <img alt="theme1" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/theme1.png" width="20%">
- <img alt="theme2" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/theme2.png" width="20%">
- <img alt="theme3" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/theme3.png" width="20%">
- <img alt="theme4" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/theme4.png" width="20%">
 </p>
 
 * ` Settings (Change the Color Theme, Thread Amount, Hotkeys and more!)`
@@ -47,11 +47,6 @@ Code ✅
 * ` Webhook Nuker/Deleter`
 * ` And much, much more!`
 
-<p align="center">
- <img alt="HazardNuker" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/HazardNuker.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="HazardNukerUpdate" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/HazardUpdate.png" width="45%">
-</p>
 
 ## Features in detail
 
