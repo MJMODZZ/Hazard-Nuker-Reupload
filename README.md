@@ -17,9 +17,9 @@
 This is just a reupload of Rdimos Hazard Nuker. All credits goes to him, he made the whole reposetory.<br />
 
 Copyright © 2022 [Rdimo](https://cheataway.com).<br />
-This project is [GPL-2.0](https://github.com/MJMODZZ/Hazard-Nuker-Reupload/blob/main/LICENSE) licensed.
-Rdimo Discord [Here](https://discord.gg/vSsqdYyGYC)
-MJMODZZ Discord [Here](https://discord.gg/bjwmd3yuGP)
+This project is [GPL-2.0](https://github.com/MJMODZZ/Hazard-Nuker-Reupload/blob/main/LICENSE) licensed.<br />
+Rdimo Discord [Here](https://discord.gg/vSsqdYyGYC)<br />
+MJMODZZ Discord [Here](https://discord.gg/bjwmd3yuGP)<br />
 
 **NOTE:** Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
 ㅤ
